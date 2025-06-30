@@ -7,16 +7,16 @@
 
 **What did you do particularly well in developing this documentation?**<br>
 
-* I feel that 
+* 
 
 **What about the process of working through a design document did you find helpful when developing the code?**<br>
 
 * I found that the processes of updating the UML diagram was helpful because its a really easy way to get a good view of how peices of the code are connected.
-  
+  When making recommendations for the client I believe that critical thinking helped me ask different types of questions about the problem to further research and expand my knowledge.
 
 **If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**<br>
 
-* I would go back and revise the recommendation section that explains the linux architecture. 
+* I would go back and revise the recommendation section that explains the linux architecture. I want to explore more on what other benefits servers can get from the linux architecture other then just being cheaper then windows and mac OS'es.
 
 **How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**<br>
 
