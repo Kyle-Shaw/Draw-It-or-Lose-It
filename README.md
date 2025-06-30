@@ -20,7 +20,7 @@
 
 **How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**<br>
 
-* 
+* Creating a design document is important because there are different types of solutions to problems and making sure your implementation is what the user actually wants before you spend time and money developing code. 
 
 **How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**<br>
 
