@@ -20,7 +20,9 @@
 
 **How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**<br>
 
-* Creating a design document is important because there are different types of solutions to problems and making sure your implementation is what the user actually wants before you spend time and money developing code. 
+* Creating a design document is important because there are different types of solutions to problems and making sure your implementation is what the user actually wants before you spend time and money developing code.
+   The clients needs effects desisns like code patterns, security requirements, storage, and memory reuqirements. An example is that the client wanted teams and usernames to be unique so on an object initiation we have to first check if that
+  object already existed. Only one instance of the game meaning that the signleton pattern fit best for the game object.
 
 **How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**<br>
 
