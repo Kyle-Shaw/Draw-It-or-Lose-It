@@ -1,6 +1,6 @@
 # Draw-It-or-Lose-It
 
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?  
 The Gaming Room is a company who asked us to extend their mobile game Draw It or Lose it to be cross platform. They wanted us to design the application for the server and give a recommendation for an operating system to run on.
 
 What did you do particularly well in developing this documentation?
