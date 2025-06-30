@@ -26,4 +26,6 @@
 
 **How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**<br>
 
-* 
+* Designing the software required me to not only understand what the client wanted but also needing to read up on dropwizard's library and how to use its features.
+  Not only did I try to look at just the code examples but tried to understand how they functioned within the library. I think it was useful to understand that Jetty is the http server and JerseyClient is one of many things you can inject into your server.
+  JerseyClient acting handling the request as restful.
