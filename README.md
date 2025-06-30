@@ -7,7 +7,8 @@
 
 **What did you do particularly well in developing this documentation?**<br>
 
-* 
+* I felt I did a good job understanding and describing the domain model and talking about the patterns used. While the recommendation section took more effort
+  I was able to make good observations about the operating system and requirements like the OS page cache. 
 
 **What about the process of working through a design document did you find helpful when developing the code?**<br>
 
